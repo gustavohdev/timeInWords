@@ -1,4 +1,4 @@
-# timeInWorlds
+# timeInWords
 
 - clone this repository
 - use Visual Studio Code if possible

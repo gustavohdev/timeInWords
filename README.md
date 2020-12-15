@@ -3,6 +3,7 @@
 - clone this repository
 - use Visual Studio Code if possible
 - open this git on VS CODE
+- you shall have JDK installed
 - use bash terminal to run this CLI application
 - cd into complete folder
 

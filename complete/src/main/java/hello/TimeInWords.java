@@ -2,7 +2,7 @@ package hello;
 
 import java.util.Scanner;
 
-public class TimeInWorlds {
+public class TimeInWords {
 		public static void main(String[] args) {
 
 		/*
